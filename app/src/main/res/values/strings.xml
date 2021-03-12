@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Life Cycle</string>
+    <string name="button_init">Comienza</string>
+    <string name="text_title">Comencemos a contar cuantas veces vuelves a esta pantalla</string>
+    <string name="text_subtitle">Puedes oprimir el botón o minimizar la aplicación, funcionaran los dos casos</string>
+    <string name="text_count_init">Aquí aparecera tu contador</string>
+    <string name="text_count_next">Tu contador va en: </string>
+    <string name="button_out">Salir</string>
+    <string name="text_title_2">Entraste a la segunda ventana, cuando salgas tu contador habrá cambiado</string>
+    <string name="text_default_welcome">Regalanos tu nombre por favor</string>
+    <string name="inputName">¿Como te llamas?</string>
+    <string name="text_out">Gracias por participar Jejeje</string>
+</resources>
